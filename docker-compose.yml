@@ -2,7 +2,7 @@
 version: '3'
 services:
   freqtrade:
-    image: cicoub13/freqtrade-plot:latest
+    image: cicoub13/freqtrade:latest
     # Build step - only needed when additional dependencies are needed
     # build:
     #   context: .
